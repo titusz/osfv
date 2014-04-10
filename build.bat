@@ -1,4 +1,4 @@
-pandoc -t revealjs -s osfv.md -o build/index.html -V theme=default --smart --highlight-style=zenburn
+pandoc -t revealjs -s osfv.md -o index.html -V theme=default --smart --highlight-style=zenburn
 pandoc osfv.md -o build/osfv_v2.epub --smart --highlight-style=zenburn
 pandoc osfv.md -t epub3 -o build/osfv_v3.epub --smart --highlight-style=zenburn
 pandoc osfv.md -o build/osfv.rtf
