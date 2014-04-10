@@ -44,7 +44,9 @@ Quellcode liegt nur dem Hersteller vor.
 
 ## Überzeugungstäter
 
-![Nerd by  Aaron Van Dike | www.fivegiantsstudio.com](nerd.jpg)
+![Nerd](nerd.jpg)
+
+[by Aaron Van Dike](http://www.fivegiantsstudio.com)
 
 ## Herkunft
 
