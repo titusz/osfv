@@ -22,12 +22,12 @@ Diese lesbaren, formalen Hochsprachen werden von einem ...
 
 ## Übersetzer
 
-auch Compiler oder Interpreter genannt in unlesbare Maschinensprache (Binärcode)
+auch Compiler oder Interpreter genannt, in unlesbare Maschinensprache (Binärcode)
 übersetzt.
 
 ## Bibliotheken
 
-sind Sammlungen bestehender Unterprogramme, die Lösungswege für speziefische
+sind Sammlungen bestehender Unterprogramme, die Lösungswege für spezifische
 Problemstellungen auf unterschiedlichen Abstraktionsebenen bieten.
 
 
@@ -38,7 +38,7 @@ Problemstellungen auf unterschiedlichen Abstraktionsebenen bieten.
 > Open Source bzw. quelloffen ist Software, deren Quelltext offenliegt ...
 [Wikipedia](http://de.wikipedia.org/wiki/Open_Source)
 
-Im Gegensatz zu "Propietär":
+Im Gegensatz zu "propietär":
 
 Quellcode liegt nur dem Hersteller vor.
 
@@ -49,7 +49,7 @@ Quellcode liegt nur dem Hersteller vor.
 ## Herkunft
 
 Der Begriff "Open Source" wurde im April 1998 auf der "Freeware Summit" geprägt.
-Eine Veranstaltung organisiert vom dem Verleger Tim O´Reilly.
+Eine Veranstaltung, organisiert vom dem Verleger Tim O´Reilly.
 
 ## Lizenzen
 
@@ -62,7 +62,7 @@ Eine Veranstaltung organisiert vom dem Verleger Tim O´Reilly.
 - Beteiligung diverser Personen/Firmen
 - Kein Vendor-Lock-in
 - Nutzung an keine oder wenige Bedingungen geknüpft
-- Prüfbarkeit der Software (Robustheit, Warbarkeit, Sicherheit...)
+- Prüfbarkeit der Software (Robustheit, Wartbarkeit, Sicherheit...)
 - Fördert offene Standards (Interoperabilität)
 - Geringere Kosten
 
@@ -114,5 +114,5 @@ Diese Präsentation wurde mit [Pandoc](http://johnmacfarlane.net/pandoc/) erstel
 
 ## Ausblick
 
-Verlage sollten sich stärker vernetzen und für branchenspeziefische Open
-Source Projekte engagieren.
+Verlage sollten sich stärker vernetzen und für branchenspezifische Open
+Source Projekte einsetzen.
