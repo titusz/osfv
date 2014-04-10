@@ -73,37 +73,60 @@ Eine Veranstaltung, organisiert vom dem Verleger Tim O´Reilly.
 Es gibt leider kaum professionelle und  speziell auf die Bedürfnisse von
 Verlagen zugeschnittene Open Source Software.
 
+
 ## Textverarbeitung
-![LibreOffice](libreoffice.jpg)\
+
+![LibreOffice](libreoffice.jpg)
+
 [LibreOffice](http://libreoffice.org/) / [OpenOffice](http://www.openoffice.org)
 
+
 ## DTP
-![Scribus](scribus.jpg)\
+
+![Scribus](scribus.jpg)
+
 Desktop Publishing - [Scribus](http://www.scribus.net/canvas/Scribus)
 
 ## Illustration
-![Inkscape](inkscape.png)\
+
+![Inkscape](inkscape.png)
+
 Vektorgrafik Programm - [Inkscape](http://www.inkscape.org/)
 
+
 ## Content Management
-![Pressbooks](pressbooks.jpg)\
+
+![Pressbooks](pressbooks.jpg)
+
 Auf Wordpress basierendes CMS - [Pressbooks](http://pressbooks.com/)
 
+
 ## Content Management
-![Booktype](booktype.jpg)\
+
+![Booktype](booktype.jpg)
+
 Auf Django basierendes CMS - [Booktype](http://www.sourcefabric.org/en/booktype/)
 
+
 ## E-Book Editing
-![Sigil](sigil.png)\
+
+![Sigil](sigil.png)
+
 EPUB™ Editor - [Sigil](https://code.google.com/p/sigil/)
 
 ## E-Book Editing
-![BlueGriffon](bluegriffon.png)\
+
+![BlueGriffon](bluegriffon.png)
+
 EPUB™ Editor - [BlueGriffon](http://www.bluegriffon-epubedition.com/BGEE.html)
 
+
 ## E-Book Management
-![Calibre](calibre.jpg)\
+
+![Calibre](calibre.jpg)
+
 Eierlegende Wollmilchsau - [Calibre](http://calibre-ebook.com/)
+
 
 ## Pandoc
 
@@ -111,6 +134,7 @@ Eierlegende Wollmilchsau - [Calibre](http://calibre-ebook.com/)
 
 Diese Präsentation wurde mit [Pandoc](http://johnmacfarlane.net/pandoc/) erstellt\
 [Markdown Quelltext](https://raw.githubusercontent.com/titusz/osfv/master/osfv.md)
+
 
 ## Ausblick
 
